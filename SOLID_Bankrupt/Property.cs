@@ -1,7 +1,7 @@
 ﻿namespace Project
 {
 
-    public class Property
+    public abstract class Property
     {
         public int SalePrice { get; }
         public int RentalPrice { get; }
@@ -10,5 +10,11 @@
             SalePrice = salePrice;
             RentalPrice = rentalPrice;
         }
+
+        public virtual void Buy()
+        {
+
+        }
+
     }
 }

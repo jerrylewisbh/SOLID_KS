@@ -20,7 +20,7 @@ namespace Project
                 string formmatedLine = Regex.Replace(line, @"\s+", " ");
                 string[] settings = formmatedLine.Split(' ');
 
-                Property p = new Property(int.Parse(settings[0]), int.Parse(settings[1]));
+                Property p = new House(int.Parse(settings[0]), int.Parse(settings[1]));
                 properties.Add(p);
             }
 
