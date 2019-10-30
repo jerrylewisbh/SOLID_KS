@@ -38,6 +38,7 @@
     <Compile Include="House.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Property.cs" />
+    <Compile Include="IMouseInteractable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="gameConfig.txt" />
