@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{21C418B1-CA44-4C6F-BB29-050A8B6244E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.SOLID__Bankrupt FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID_Bankrupt/Program.cs">
+    <Files>
+      <File FileName="SOLID_Bankrupt/Program.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
