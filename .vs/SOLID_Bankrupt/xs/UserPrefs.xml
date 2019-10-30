@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{21C418B1-CA44-4C6F-BB29-050A8B6244E3}|Default">
-  <MonoDevelop.Ide.ItemProperties.SOLID__Bankrupt FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID_Bankrupt/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.SOLID__Bankrupt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLID_Bankrupt/Match.cs">
     <Files>
-      <File FileName="SOLID_Bankrupt/Program.cs" Line="7" Column="29" />
+      <File FileName="SOLID_Bankrupt/Program.cs" Line="1" Column="1" />
+      <File FileName="SOLID_Bankrupt/Board.cs" Line="10" Column="66" />
+      <File FileName="SOLID_Bankrupt/Player.cs" Line="13" Column="22" />
+      <File FileName="SOLID_Bankrupt/House.cs" Line="1" Column="1" />
+      <File FileName="SOLID_Bankrupt/Match.cs" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
